@@ -1,4 +1,4 @@
-## <h2 align="center">I'm Mohammed Faraan, a passionate Full-stack Developer</h2>
+## <div align="center">I'm Mohammed Faraan, a passionate Full-stack Developer</div>
 
 - 🌱 I’m currently learning MERN Stack and Next.js  
   
@@ -82,8 +82,4 @@
 
 <br/>  
 
-<div align="center"></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
