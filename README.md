@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm <b>Mohammed Faraan</b></h1>
-  <p>🚀 <em>Full-stack Developer | MERN &amp; Next.js Enthusiast</em></p>
+  <p>🚀 <em>Full-stack Developer | MERN & Next.js Enthusiast</em></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+apps;Learning+cutting-edge+tech;Sharing+my+journey" alt="Typing SVG"/>
 </div>
 
@@ -8,9 +8,8 @@
 
 ## 🎯 What I’m Working On
 
-* **SignForAll**: A web-based sign language translation tool using React, Flask, ML-based gesture recognition & 3D avatars
-* 📚 Learning **Next.js 14**, **GraphQL**, and **TypeScript** for my next-gen web apps
-* 🔧 Automating workflows with **GitHub Actions** and exploring **Docker** & **Kubernetes**
+* **SignForAll**: A web-based sign language translation tool using React, Flask, ML-based gesture recognition & 3D avatars (Completed)
+* 📚 Learning **MERN Stack** and **Next.js 14** for my next-gen web apps
 
 ---
 
@@ -34,17 +33,15 @@
   <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40px"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40px"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40px"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" width="40px"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
 </td>
 <td align="center" valign="top">
   <h3>Dev &amp; Others</h3>
   <br/>
   <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40px"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40px"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40px"/></a>
 </td>
 </tr></table>
 
