@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm <b>Mohammed Faraan</b></h1>
-  <p>🚀 <em>Full-stack Developer | MERN & Next.js Enthusiast</em></p>
+  <p>🚀 <em>Full-stack Developer</em></p>
+<!--   MERN & Next.js Enthusiast -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+apps;Learning+cutting-edge+tech;Sharing+my+journey" alt="Typing SVG"/>
 </div>
 
@@ -42,19 +43,19 @@
   </tr>
   <tr>
     <td align="center" valign="top">
-      <h3>Dev & Others</h3>
-      <p>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-        <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-      </p>
-    </td>
-    <td align="center" valign="top">
       <h3>Languages</h3>
       <p>
         <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
         <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
         <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <h3>Dev & Others</h3>
+      <p>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+        <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
       </p>
     </td>
   </tr>
@@ -67,7 +68,7 @@
 <div align="center">
   <a href="https://github.com/MohammedFaraan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/mohammed-faraan-653b822b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mohammedfaraan20062006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
