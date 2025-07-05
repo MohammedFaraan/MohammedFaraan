@@ -1,7 +1,4 @@
-## Hi I'm Mohammed Faraan 👋
-
-### <div align="center">A passionate Full-stack Developer</div>  
-  
+## <h2 align="center">I'm Mohammed Faraan, a passionate Full-stack Developer</h2>
 
 - 🌱 I’m currently learning MERN Stack and Next.js  
   
