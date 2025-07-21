@@ -9,7 +9,7 @@
 
 ## 🎯 What I’m Working On
 
-* **SignForAll**: A web-based sign language translation tool using React, Flask, ML-based gesture recognition & 3D avatars (Completed)
+* **SignForAll**: A web-based sign language translation tool using React, Flask, ML-based gesture recognition & 3D avatars.
 <!--  :* 📚 Learning **MERN Stack** and **Next.js 14** for my next-gen web apps  -->
 
 ---
