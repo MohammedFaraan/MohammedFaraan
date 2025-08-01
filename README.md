@@ -1,4 +1,4 @@
-<img width="308" height="82" alt="image" src="https://github.com/user-attachments/assets/25bba8cc-dcd0-4fd5-83d6-eaf958b090be" /><div align="center">
+<div align="center">
   <h1>👋 Hello, I'm <b>Mohammed Faraan</b></h1>
   <p>🚀 <em>Full-stack Developer</em></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+apps;Learning+cutting-edge+tech;Sharing+my+journey" alt="Typing SVG"/>
