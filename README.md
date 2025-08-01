@@ -1,4 +1,4 @@
-<div align="center">
+<img width="308" height="82" alt="image" src="https://github.com/user-attachments/assets/25bba8cc-dcd0-4fd5-83d6-eaf958b090be" /><div align="center">
   <h1>👋 Hello, I'm <b>Mohammed Faraan</b></h1>
   <p>🚀 <em>Full-stack Developer</em></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+apps;Learning+cutting-edge+tech;Sharing+my+journey" alt="Typing SVG"/>
@@ -80,8 +80,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFaraan&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedFaraan&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="48%"/>
-</div>
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedFaraan&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="48%"/>
+</div> -->
 
 ---
 
