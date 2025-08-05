@@ -74,14 +74,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedFaraan&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Mohammed's GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.me?user=MohammedFaraan&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedFaraan&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" alt="Mohammed's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedFaraan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFaraan&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" width="48%"/>
- <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedFaraan&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="48%"/>
-</div> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFaraan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+</div>
 
 ---
 
