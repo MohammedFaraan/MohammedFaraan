@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hello, I'm <b>Mohammed Faraan</b></h1>
-  <p align="center">Full-stack developer — React / Next.js / SpringBoot / Node</p>
+  <p align="center">Full-stack developer — Next.js / React / SpringBoot / Node</p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+apps;Learning+cutting-edge+tech;Sharing+my+journey" alt="Typing SVG"/>
 </div>
 
 ---
 
-## 🎯 What I have Currently Worked On
+## 🎯 What I have Currentlt Worked On
 
 * **SignForAll**: A web-based sign language translation tool built using React, Flask, ML-based gesture recognition & avatar animations.
 * **Women Empowerment & Legal Assistance**: A web-based women empowerment tool built using React, SpringBoot & MySQL.
@@ -67,31 +67,18 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #30363d; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-        <a href="https://github.com/MohammedFaraan" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-        <br/>
-        <strong>Follow me on GitHub</strong>
-      </td>
-      <td align="center" style="border: 2px solid #30363d; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-        <a href="https://linkedin.com/in/mohammed-faraan-653b822b8" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <br/>
-        <strong>Connect on LinkedIn</strong>
-      </td>
-      <td align="center" style="border: 2px solid #30363d; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-        <a href="mailto:mohammedfaraan20062006@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-        <br/>
-        <strong>Send me an Email</strong>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/MohammedFaraan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammed-faraan-653b822b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohammedfaraan20062006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://nexfellow.com/user/MohammedFaraan" target="_blank">
+    <img src="https://img.shields.io/badge/NexFellow-00C2CB?style=for-the-badge&logo=https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/nexfellow-logo.png" alt="NexFellow"/>
+  </a>
 </div>
 
 ---
@@ -99,38 +86,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #ff6b6b; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1a0d0d 0%, #2d1b1b 100%);">
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammedFaraan&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=15" alt="Mohammed's GitHub Stats"/>
-      </td>
-      <td align="center" style="border: 2px solid #ff6b6b; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1a0d0d 0%, #2d1b1b 100%);">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MohammedFaraan&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub summary -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedFaraan&show_icons=true&theme=radical&count_private=true" alt="Mohammed's GitHub Stats"/>
+  <!-- Streak: use the Vercel-hosted endpoint for reliability -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MohammedFaraan&theme=radical" />
 </div>
-
-<br/>
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #ff6b6b; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1a0d0d 0%, #2d1b1b 100%); width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFaraan&layout=compact&theme=radical&hide_border=true&langs_count=8&border_radius=15" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFaraan&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%"/>
 </div>
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 10px; background: linear-gradient(135deg, #0a1a0a 0%, #1a2d1a 100%);">
-        <img src="https://komarev.com/ghpvc/?username=MohammedFaraan&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=MohammedFaraan&style=flat-square&color=brightgreen" alt="Profile Views" />
 </div>
