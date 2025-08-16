@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 What I have Currentlt Worked On
+## 🎯 What I have Currently Worked On
 
 * **SignForAll**: A web-based sign language translation tool built using React, Flask, ML-based gesture recognition & avatar animations.
 * **Women Empowerment & Legal Assistance**: A web-based women empowerment tool built using React, SpringBoot & MySQL.
