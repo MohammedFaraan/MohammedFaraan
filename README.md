@@ -89,7 +89,7 @@
   <!-- GitHub summary -->
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedFaraan&show_icons=true&theme=radical&count_private=true" alt="Mohammed's GitHub Stats"/>
   <!-- Streak: use the Vercel-hosted endpoint for reliability -->
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MohammedFaraan&theme=radical&include_all_commits=true&&include_private=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MohammedFaraan&theme=radical&include_private=true" />
 </div>
 <div align="center">
   <!-- Top languages -->
