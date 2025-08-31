@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm <b>Mohammed Faraan</b></h1>
-  <p align="center">Full-stack developer — Next.js / React / SpringBoot / Node</p>
+  <p align="center">Full-stack developer — Next.js / React / SpringBoot / Express/ Node</p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+apps;Learning+cutting-edge+tech;Sharing+my+journey" alt="Typing SVG"/>
 </div>
