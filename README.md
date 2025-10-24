@@ -10,8 +10,8 @@
 ## 🎯 My recent works
 
 * **SignForAll**: A web-based sign language translation tool built using React, Flask, ML-based gesture recognition & avatar animations.
+* * **Converso**: A sophisticated AI-powered voice enabled learning platform that enables users to interact with specialized AI companions across various academic subjects, built using Next.js, Supabase.
 * **Women Empowerment & Legal Assistance**: A web-based women empowerment tool built using React, SpringBoot & MySQL.
-* **Buy Me a Chai**: A web-based platform to support developers/creators built using Next.js.
 
 ---
 
