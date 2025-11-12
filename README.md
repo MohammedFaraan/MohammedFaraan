@@ -11,7 +11,7 @@
 
 * **SignForAll**: A web-based sign language translation tool built using React, Flask, ML-based gesture recognition & avatar animations.
 * **Converso**: A sophisticated AI-powered voice enabled learning platform that enables users to interact with specialized AI companions across various academic subjects, built using Next.js, Supabase.
-* **Women Empowerment & Legal Assistance**: A web-based women empowerment tool built using React, SpringBoot & MySQL.
+    <!--* **Women Empowerment & Legal Assistance**: A web-based women empowerment tool built using React, SpringBoot & MySQL.-->
 
 ---
 
