@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Faraan&fontSize=60&fontColor=ffffff&fontAlignY=38&descAlignY=58&descSize=22&animation=fadeIn" />
@@ -23,7 +23,7 @@
 Hi, I'm **Mohammed Faraan** — a Computer Science engineering student who enjoys building software and learning new technologies.
 
 * 💻 Interested in **web development and software engineering**
-* 🧠 Exploring **AI and Python** to integrate intelligent features into applications
+<!-- * 🧠 Exploring **AI and Python** to integrate intelligent features into applications -->
 * 🛠️ Experience working with **Python, React, Next.js, FastAPI, Express.js and Spring Boot**
 * 🤝 Contributing to **open-source projects** and participating in hackathons
 <!--* 📬 Reach me at **[mohammedfaraan2006@gmail.com](mailto:mohammedfaraan2006@gmail.com)** -->
