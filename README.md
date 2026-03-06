@@ -55,6 +55,7 @@ Hi, I'm **Mohammed Faraan** — a Computer Science engineering student who enjoy
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI-a78bfa?style=flat-square&logoColor=white"/>
       </p>
+     and more.....
     </td>
   </tr>
 </table>
